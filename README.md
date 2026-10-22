@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aditya Dutta 👋
 
-<!--
-**aditya-geo/aditya-geo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Urban & Regional Planning student (BURP, CUET, Bangladesh), moving toward
+Earth Observation and Geoinformatics.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🌡️ Urban heat / land surface temperature analysis for Chattogram wards
+- 🐍 Learning Python for GIS (GeoPandas, rasterio, Google Earth Engine)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+QGIS · ArcGIS · SPSS
+
+## Currently learning
+Python · GeoPandas · rasterio · Google Earth Engine
+
+## Projects
+Portfolio repositories coming soon. 🚧
